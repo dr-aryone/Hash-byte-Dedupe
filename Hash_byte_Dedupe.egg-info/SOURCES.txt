@@ -1,0 +1,12 @@
+README.md
+setup.py
+Hash-byte-Dedupe/HashByteDedupe.py
+Hash-byte-Dedupe/__init__.py
+Hash-byte-Dedupe/config.py
+Hash-byte-Dedupe/dupScan.py
+Hash_byte_Dedupe.egg-info/PKG-INFO
+Hash_byte_Dedupe.egg-info/SOURCES.txt
+Hash_byte_Dedupe.egg-info/dependency_links.txt
+Hash_byte_Dedupe.egg-info/entry_points.txt
+Hash_byte_Dedupe.egg-info/requires.txt
+Hash_byte_Dedupe.egg-info/top_level.txt

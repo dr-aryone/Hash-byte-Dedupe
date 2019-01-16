@@ -13,13 +13,14 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/NatoNathan/Hash-byte-Dedupe",
     py_modules=setuptools.find_packages(),
+    packages=setuptools.find_packages(),
     install_requires=[
         'Click',
         'jsonpickle'
     ],
     entry_points='''
         [console_scripts]
-        DataDeDup=DataDeDup:cli
+        HashByteDedupe=HashByteDedupe:cli
     ''',
     classifiers=[
         "Programming Language :: Python :: 3",
